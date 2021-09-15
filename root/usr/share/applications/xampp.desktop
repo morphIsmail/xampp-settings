@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment[ru_RU]=Запустить XAMPP
+Comment=Запустить XAMPP
+Exec=sh -c "pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY sudo /opt/lampp/manager-linux-x64.run"
+GenericName[ru_RU]=
+GenericName=
+Icon=/opt/lampp/htdocs/favicon.ico
+MimeType=
+Name[ru_RU]=XAMPP
+Name=XAMPP
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
